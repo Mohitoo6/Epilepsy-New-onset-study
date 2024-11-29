@@ -12,7 +12,7 @@ The goal of this project was to analyze a pilot study dataset on new-onset epile
 
 2. **Exploratory Data Analysis (EDA):**  
    - Analyzed the prevalence of different seizure types (e.g., Generalized tonic-clonic, Absence seizures, Myoclonic seizures).  
-   - Conducted statistical tests, including ANOVA, to compare age distributions across seizure types.  
+   - Used SQL Programming and Python for EDA and Conducted statistical tests, including ANOVA, to compare age distributions across seizure types.  
    - Visualized age and seizure type associations using boxplots and descriptive statistics.
 
 3. **Statistical Analysis:**  
@@ -30,7 +30,7 @@ The goal of this project was to analyze a pilot study dataset on new-onset epile
 ---
 
 **Tools Used:**  
-- **Programming Language:** Python (Jupyter Notebook)  
+- **Programming Language:** Python (Jupyter Notebook), SQL   
 - **Libraries for Data Analysis:** pandas, numpy, scipy.stats  
 - **Visualization Libraries:** matplotlib, seaborn  
 
